@@ -38,27 +38,26 @@
 
 <p align="left">
 <p align="left">
-  <!-- Core Development Tools via SkillIcons (Fixed Paths) -->
-  <img src="https://skillicons.dev" height="48" alt="Python" />
-  <img src="https://skillicons.dev" height="48" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
-  <img src="https://skillicons.dev" height="48" alt="GitHub" />
-  <img src="https://skillicons.dev" height="48" alt="VSCode" />
-  <img src="https://wikimedia.org" height="44" alt="Jupyter" style="background:#1a1b26; padding:2px; border-radius:10px; margin-left:2px; vertical-align:top;" />
+  <!-- Combined SkillIcons for the first 5 core tools -->
+  <img src="https://skillicons.dev" alt="Core Tools" />
+  
+  <!-- Clean, standard Jupyter Badge that perfectly matches Shields.io styles -->
+  <img src="https://shields.io" alt="Jupyter" />
 
-  <!-- Data Science & Machine Learning Badges (Fixed Logos) -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <!-- Data Science & Machine Learning Badges -->
+  <img src="https://shields.io" alt="NumPy" />
+  <img src="https://shields.io" alt="Pandas" />
   <img src="https://shields.io" alt="Matplotlib" />
   <img src="https://shields.io" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://shields.io" alt="Scikit-learn" />
   
-  <!-- AI, Agents & Orchestration Badges (Added Logos/Icons) -->
+  <!-- AI, Agents & Orchestration Badges -->
   <img src="https://shields.io" alt="Generative AI" />
   <img src="https://shields.io" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://shields.io" alt="n8n" />
+  <img src="https://shields.io" alt="LangChain" />
 </p>
+
 
 
 ---
