@@ -14,7 +14,7 @@
 <img align="right" alt="Laptop coding animation" width="300" src="https://raw.githubusercontent.com/Arushi-20/Arushi-20/main/Programming%20Computer.svg">
 
 - Pursuing BS in Data Science at IIT Madras
-- Learning Python and SQL
+- Building my skills in AI
 - Exploring Data Analytics and Data Visualization
 - Interested in AI Engineering and Generative AI
 - Exploring AI Agents and workflow automation
@@ -37,7 +37,7 @@
 <h2>🛠️ Tech Stack & Tools</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter" alt="Programming and development tools" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,Jupyter Notebook" alt="Programming and development tools" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
