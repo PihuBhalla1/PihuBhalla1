@@ -34,34 +34,20 @@
 
 ---
 
-<h2>🛠️ Tech Stack & Tools</h2>
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-<p align="left">
-  <!-- Combined SkillIcons for the first 5 core tools -->
-  <img src="https://skillicons.dev" alt="Core Tools" />
-  
-  <!-- Clean, standard Jupyter Badge that perfectly matches Shields.io styles -->
-  <img src="https://shields.io" alt="Jupyter" />
-
-  <!-- Data Science & Machine Learning Badges -->
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="Matplotlib" />
-  <img src="https://shields.io" alt="Seaborn" />
-  <img src="https://shields.io" alt="Scikit-learn" />
-  
-  <!-- AI, Agents & Orchestration Badges -->
-  <img src="https://shields.io" alt="Generative AI" />
-  <img src="https://shields.io" alt="AI Agents" />
-  <img src="https://shields.io" alt="n8n" />
-  <img src="https://shields.io" alt="LangChain" />
-</p>
-
-
-
----
+[![Core Tools](https://skillicons.dev)](https://skillicons.dev)
+![Jupyter](https://shields.io)
+![NumPy](https://shields.io)
+![Pandas](https://shields.io)
+![Matplotlib](https://shields.io)
+![Seaborn](https://shields.io)
+![Scikit-learn](https://shields.io)
+![Generative AI](https://shields.io)
+![AI Agents](https://shields.io)
+![n8n](https://shields.io)
+![LangChain](https://shields.io)
 
 <p align="center">
-  <i>Learning, building, and exploring the possibilities of AI.</i>
+  <em>Learning, building, and exploring the possibilities of AI.</em>
 </p>
