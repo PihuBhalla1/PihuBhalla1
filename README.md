@@ -37,7 +37,14 @@
 <h2>🛠️ Tech Stack & Tools</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,Jupyter Notebook" alt="Programming and development tools" />
+ <p align="left">
+  <img src="https://skillicons.dev" height="48" alt="Python" />
+  <img src="https://skillicons.dev" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+  <img src="https://skillicons.dev" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev" height="48" alt="VSCode" />
+  <img src="https://wikimedia.org" height="44" alt="Jupyter" style="background:#1a1b26; padding:2px; border-radius:10px; margin-left:2px; vertical-align:top;" />
+
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
