@@ -1,53 +1,70 @@
 
-<h1 align="center">Hi 👋, I'm Pihu Bhalla</h1>
+<div align="center">
 
-<h3 align="center">Data Science Student | AI Engineering Enthusiast | Automation</h3>
+# Hi, I'm Pihu Bhalla 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Python+Developer;Aspiring+Data+Scientist;Aspiring+Data+Analyst;AI+Agent+Enthusiast;Generative+AI+Explorer;AI+Automation+Enthusiast" alt="Animated roles" />
-</p>
+### Data Science Student | Currently Learning AI Engineering | Automation
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Currently+Learning+AI+Engineering;Python+Developer;Aspiring+Data+Scientist;Aspiring+Data+Analyst;Exploring+Generative+AI;AI+Automation+Enthusiast" alt="Typing SVG" />
+
+</div>
 
 ---
 
-<h2>👩‍💻 About Me</h2>
+## 👩‍💻 About Me
 
-<img align="right" alt="Laptop coding animation" width="300" src="https://raw.githubusercontent.com/Arushi-20/Arushi-20/main/Programming%20Computer.svg">
+<img align="right" alt="Coding Laptop Animation" width="280" src="https://raw.githubusercontent.com/Arushi-20/Arushi-20/main/Programming%20Computer.svg" />
 
-- Pursuing BS in Data Science at IIT Madras
-- Building my skills in AI
-- Exploring Data Analytics and Data Visualization
-- Interested in AI Engineering and Generative AI
-- Exploring AI Agents and workflow automation
-- Building my skills through hands-on learning
+- Pursuing **BS in Data Science at IIT Madras**
+- Currently learning **AI Engineering**
+- Learning Python and practicing problem-solving
+- Currently learning SQL and database fundamentals
+- Exploring Generative AI and AI Agents
+- Interested in AI automation and intelligent workflows
+- Building my foundation in Data Science and Data Analytics
 
 <br clear="right"/>
 
 ---
 
-<h2>🌱 Currently Exploring</h2>
+## 🛠️ Languages & Tools
 
-- Python programming and problem-solving
-- Data analysis and visualization
-- Machine Learning fundamentals
-- Generative AI and AI Agents
-- Workflow automation using n8n
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/AI_Agents-0F766E?style=for-the-badge&logoColor=white" alt="AI Agents" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation" />
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🌱 Currently Exploring
 
-[![Core Tools](https://skillicons.dev)](https://skillicons.dev)
-![Jupyter](https://shields.io)
-![NumPy](https://shields.io)
-![Pandas](https://shields.io)
-![Matplotlib](https://shields.io)
-![Seaborn](https://shields.io)
-![Scikit-learn](https://shields.io)
-![Generative AI](https://shields.io)
-![AI Agents](https://shields.io)
-![n8n](https://shields.io)
-![LangChain](https://shields.io)
+- Python programming and problem-solving
+- SQL and database fundamentals
+- Data analysis and visualization
+- Machine learning fundamentals
+- AI Engineering and Generative AI
+- AI Agents and workflow automation
 
-<p align="center">
-  <em>Learning, building, and exploring the possibilities of AI.</em>
-</p>
+---
+
+<div align="center">
+
+### ✨ Learning, building, and growing one step at a time.
+
+</div>
