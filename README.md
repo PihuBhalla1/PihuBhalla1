@@ -5,8 +5,9 @@
 
 ### Data Science Student | Currently Learning AI Engineering | Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Currently+Learning+AI+Engineering;Python+Developer;Aspiring+Data+Scientist;Aspiring+Data+Analyst;Exploring+Generative+AI;AI+Automation+Enthusiast" alt="Typing SVG" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Aspiring+Data+Scientist;Aspiring+Data+Analyst;Generative+AI+Explorer;AI+Automation+Enthusiast" alt="Animated roles" />
+</p>
 </div>
 
 ---
